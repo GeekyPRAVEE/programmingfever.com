@@ -1,0 +1,125 @@
+.page{
+	background-image: linear-gradient(rgba(7, 4, 61, 1),rgba(7, 4, 61, 0.5)), url("2x.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: auto;
+	overflow: hidden;
+	position: relative;
+	height: auto;
+
+
+}
+.clear{
+	clear: both;
+}
+.programmingfever{
+
+	padding-top: 1%;
+	font-family: cursive;
+
+}
+.programmingfever img{
+	height: 10%;
+	width: 90%;
+	margin-top: 35px;
+	margin-bottom: 0;
+	margin-left: 5%;
+	margin-right:5%;
+}
+h1{
+	text-align: center;
+	display: inline;
+	font-size: 3rem;
+	margin-bottom: 0;
+	margin-top: 0;
+	color:rgb(2, 178, 232);
+
+}
+h3{
+	text-align: center;
+	display: inline;
+	font-size: 135%;
+	margin-top: 0;
+	color:rgba(2, 178, 232,0.9);
+	color: lightgray;
+}
+.content{
+	margin-top: 5px;
+	margin-left: 15%;
+	margin-right: 15%;
+  width: 70%;
+
+}
+.content a{
+
+	font-size: 1rem;
+	text-decoration:none;
+	color:rgb(2, 178, 232);
+	cursor: wait;
+
+}
+h2{
+	text-align: center;
+	border: 1px black solid;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 0 0 10px rgb(2, 178, 232);
+	font-family:  system-ui;
+	text-shadow: 1px 2px 6px #10FFF3;
+}
+.social{
+	height: 40%;
+	position: fixed;
+	float: right;
+	margin-top: 50px;
+	bottom: 10%;
+}
+.social img{
+	height: 40px;
+	box-shadow: 0 0 10px rgb(2, 178, 232);
+	margin-bottom: 1px;
+	margin-left: 5px;
+	margin-top: 10px;
+	float: right;
+
+}
+footer{
+	text-align: center;
+	margin-top: 70px;
+	background-color: rgb(2, 178, 232);
+	color: white;
+	padding-bottom:5px;
+	padding-top: 5px;
+
+	font-family: monospace;
+}
+.content h2:hover{
+	background-color: rgba(2, 178, 232,0.9);
+	box-shadow: 0 0 10px ;
+	color: #fa4368;
+}
+.social img:hover{
+	background-color: rgba(2, 178, 232,0.9);
+	box-shadow: 0 0 10px  #fa4368;
+}
+.nav img{
+  /* margin-bottom: 10%;
+	margin-left:90%; */
+	/* float: right;
+	clear: both; */
+	position: fixed;
+	bottom: 10%;
+	right: 5%;
+	height: 40px;
+	box-shadow: 0 0 10px  rgb(2, 178, 232);
+	width: 40px;
+
+}
+
+/* body{
+	width: 90%;
+	margin: 0 auto;
+} */
