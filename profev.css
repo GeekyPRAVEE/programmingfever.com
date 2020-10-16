@@ -1,0 +1,106 @@
+.page{
+	background-image: linear-gradient(rgba(7, 4, 61, 1),rgba(7, 4, 61, 0.5)), url("2x.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: auto;
+	overflow: hidden;
+	position: relative;
+	height: auto;
+}
+.clear{
+	clear: both;
+}
+.programmingfever{
+	font-weight: 800;
+	padding-top: 1%;
+	font-family: cursive;
+
+}
+.programmingfever img{
+	height: 10%;
+	width: 70%;
+	margin-top: 35px;
+	margin-bottom: 0;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+h1{
+	text-align: center;
+	display: inline;
+	font-size: 3rem;
+	margin-bottom: 0;
+	margin-top: 0;
+	color:rgb(2, 178, 232);
+
+}
+h3{
+	text-align: center;
+	display: inline;
+	font-size: 135%;
+	margin-top: 0;
+	color:rgba(2, 178, 232,0.9);
+	color: lightgray;
+}
+.content{
+	margin-top: 5px;
+	margin-left: 15%;
+	margin-right: 15%;
+  width: 70%;
+
+}
+.content a{
+
+	font-size: 1rem;
+	text-decoration:none;
+	color:rgb(2, 178, 232);
+
+}
+h2{
+	text-align: center;
+	border: 1px black solid;
+	padding: 10px;
+	border-radius: 20px;
+	background-color: rgba(255, 255, 255, 0.8);
+	box-shadow: 0 0 10px rgb(2, 178, 232);
+	font-family: cursive;
+}
+.social{
+	height: 40%;
+	position: fixed;
+	float: right;
+	margin-top: 50px;
+}
+.social img{
+	height: 40px;
+	box-shadow: 0 0 10px rgb(2, 178, 232);
+	margin-bottom: 1px;
+	margin-left: 5px;
+	margin-top: 10px;
+	float: right;
+
+}
+footer{
+	text-align: center;
+	margin-top: 70px;
+	background-color: rgb(2, 178, 232);
+	color: white;
+	padding-bottom:5px;
+	padding-top: 5px;
+
+	font-family: monospace;
+}
+.content h2:hover{
+	background-color: rgba(2, 178, 232,0.9);
+	box-shadow: 0 0 10px ;
+	color: #fa4368;
+}
+.social img:hover{
+	background-color: rgba(2, 178, 232,0.9);
+	box-shadow: 0 0 10px  #fa4368;
+}
+/* body{
+	width: 90%;
+	margin: 0 auto;
+} */
